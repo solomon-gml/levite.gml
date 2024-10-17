@@ -1,0 +1,18 @@
+body{
+    background-color:blue;
+}
+table{
+    border: solid 1px;
+    background-color: red;
+    color: white;
+}
+h1{
+    color: white;
+}
+ol{
+    color: white;
+}
+ul{
+    color: white;
+}
+

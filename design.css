@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(225,255,255;
+    
+
+    
+}
+img{
+    
+    height: 400px;
+    width: 500px;
+    border: solid,1px ;
+    border-radius:30px;
+    
+    margin-left: 50px;
+}
+.preparation{
+    background-color: antiquewhite;
+    border-radius: 10px;
+
+}
+h2{
+    color: brown;
+}
+th{
+    padding: 15px;
+    
+    height: 10px;
+
+}
+td{
+    color: brown;
+    margin-left: 220px;
+   
+}
+th,td{
+    border-bottom: 1px solid black;
+    padding: 15px;
+    height: 10px;
+    width: 50px;
+    hyphenate-character: 10px;
+}
+body{
+    width:700px ;
+    margin-right: 10px;
+    border: 2px;
+    
+    background-size: contain;
+    
+}
+div{
+    margin-left: 100px;
+    background-color: rgb(225,255,255;
+    
+    border-radius: 10px;
+    border: solid 2px ;
+    padding-right: ;
+
+    
+}
